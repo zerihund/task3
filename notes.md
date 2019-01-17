@@ -31,4 +31,10 @@
   452  touch notes.md
   453  ls -lah
   454  history
+   history
+  455  vi notes.md
+  456  git add .
+  457  git commit -m 'list of command'
+  458  git push
+
 
